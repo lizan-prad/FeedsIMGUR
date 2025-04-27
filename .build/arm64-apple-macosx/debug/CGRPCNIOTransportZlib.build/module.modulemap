@@ -1,0 +1,4 @@
+module CGRPCNIOTransportZlib {
+    umbrella "/Users/lizan/Documents/Feeds/.build/checkouts/grpc-swift-nio-transport/Sources/CGRPCNIOTransportZlib/include"
+    export *
+}
